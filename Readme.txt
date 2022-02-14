@@ -1,2 +1,1 @@
-This is my first commit in my sidebranch
-let's go
+In task6 I have showed all the steps along with screenshots to perform the tasks given in the discription.
